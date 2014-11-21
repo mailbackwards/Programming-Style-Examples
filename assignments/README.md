@@ -20,3 +20,9 @@ Assignment 2: Election Results Test
 
 #### Test all
 - `python assignment2.py`
+
+Assignment 3: Media Lab Maker
+=============================
+
+- [Github repository](http://github.com/mailbackwards/medialab-maker)
+- [Site](http://mailbackwards.github.io/medialab-maker).
