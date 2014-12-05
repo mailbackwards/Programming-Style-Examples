@@ -31,3 +31,8 @@ Assignment 4: Al Jazeera API Store
 ==================================
 
 - [Github repository](https://github.com/mailbackwards/canvas-context)
+
+Assignment 5: GV Cordova Geolocation
+====================================
+
+- [Github repository](https://github.com/mailbackwards/mas500-cordova-geo)
